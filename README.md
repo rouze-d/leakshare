@@ -14,4 +14,4 @@ bash leakshare.sh
 ```
 and put domain target
 
-<img src="https://github.com/rouze-d/leakshare/blob/master/screen01.png" width="800" height="450"/>
+<img src="https://github.com/rouze-d/leakshare/blob/master/screen01.png" width="800" height="500"/>
