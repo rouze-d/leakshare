@@ -12,6 +12,5 @@ usage:
 ```
 bash leakshare.sh
 ```
-and put domain target
-
-<img src="https://github.com/rouze-d/leakshare/blob/master/screen01.png" width="800" height="500"/>
+## Demo
+[![asciicast](https://asciinema.org/a/254254.svg)](https://asciinema.org/a/254254)
